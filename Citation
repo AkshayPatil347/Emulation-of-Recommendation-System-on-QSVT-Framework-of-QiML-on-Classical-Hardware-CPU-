@@ -1,0 +1,39 @@
+References for Code -
+
+1 . ichuang , Andrew Tan,and John Martyn "Python Quantum Signal Processing (pyqsp)",Jul 8, 2022, 
+    GitHub repository, \url{https://github.com/ichuang/pyqsp}
+
+2 . Qiskit,Qiskit contributors,,"Qiskit: An Open-source Framework for Quantum Computing",2023,
+    doi = {10.5281/zenodo.2573505}, GitHub repository, \url{https://github.com/Qiskit/qiskit}
+
+3 . Ramya Vidiyala,"How to Build a Movie Recommendation System",October 2, 2020, 
+    \url{https://towardsdatascience.com/how-to-build-a-movie-recommendation-system-67e321339109}
+
+4 . Denise Chen,"Recommender System — Matrix Factorization",July 8, 2020,
+    \url{https://towardsdatascience.com/recommendation-system-matrix-factorization-d61978660b4b}
+
+5 . Elad Rapaport,"MovieLens-1M Deep Dive — Part I",June 8, 2022,
+    \url{https://towardsdatascience.com/movielens-1m-deep-dive-part-i-8acfeda1ad4}
+
+6 . Elad Rapaport,"MovieLens-1M Deep Dive — Part II, Tensorflow Recommenders",September 12, 2022,
+    \url{https://towardsdatascience.com/movielens-1m-deep-dive-part-ii-tensorflow-recommenders-4ca358cc886e}
+
+7 . Carlos Outerelo,"MovieLens Recommender System",April 27, 2022,
+    \url{https://rpubs.com/outerelocarlos/MovieLens-Recommender-System}
+
+8 . Marek Gagolewski,"Recommender Systems", June 2022,
+    \url{https://lmlcr.gagolewski.com/recommender-systems.html}
+
+
+Citation for the Github Repository -
+
+1 . Code Implementation,Akshay Patil, "Emulation of Recommendation System on QSVT Framework of QiML on Classical Hardware - CPU" , (December 27, 2023), 
+GitHub repository, \url{https://github.com/AkshayPatil347/Emulation-of-Recommendation-System-on-QSVT-Framework-of-QiML-on-Classical-Hardware-CPU-}
+
+Citation for the Paper On which this Repository is Based on -
+
+1 . Akshay Patil, Nagendra Singh, Abhishek Tiwari, and Vivek Khaneja , "Emulation of Recommendation System using Quantum Singular Value Transform 
+Framework of Quantum Inspired Machine Learning on Classical Hardware CPU - Novel Way" , \url{Will be updated once the paper is published}
+
+
+
