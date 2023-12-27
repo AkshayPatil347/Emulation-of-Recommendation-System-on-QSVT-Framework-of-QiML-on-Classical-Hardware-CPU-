@@ -1,0 +1,1 @@
+Python Code on Emulation of Recommendation System on QSVT Framework of QIML on CPU using Qiskit Simulators,Pennylane 'pyqsp' and 'unitary block encoding' Quantum Libraries and other classical libraries.
